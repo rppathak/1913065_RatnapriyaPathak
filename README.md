@@ -1,8 +1,12 @@
 # 1913065_RatnapriyaPathak
 Implementation of Apriori Algorithm using python
+
 INPUT: .csv file containing items separated by ','
+
 ITEMS [A, C, D, E], [B, C, E], [A, B, C, E], [B, E, A], [C, D]
+
 MINIMUM SUPPORT: 0.6 (60%)
+
 CANDIDATE ITEMSET: [C1, C2, C3]
 C1:            
 ['A']: 3
