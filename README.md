@@ -9,7 +9,7 @@ MINIMUM SUPPORT: 0.6 (60%)
 
 CANDIDATE ITEMSET: [C1, C2, C3]
 
-C1:            
+C1:
 ['A']: 3
 ['B']: 3
 ['C']: 4
